@@ -23,9 +23,9 @@ MODELO: Convolutional Neural Networks
 
 CODIGO: https://github.com/ComboSaludable/DIFF/blob/7944d06c3572ce0ed090c6fcabee221ab6641c35/Proyecto_IA2_FINAL.ipynb
 
-VIDEO:
+VIDEO: https://youtu.be/rtN5n1oTP2k
 
-REPO:
+REPO: https://github.com/ComboSaludable/DIFF
 
 
 PROYECTO FINAL IA 2
