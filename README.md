@@ -21,7 +21,7 @@ WILDFIRE SMOKE:
 
 MODELO: Convolutional Neural Networks
 
-CODIGO:
+CODIGO: https://github.com/ComboSaludable/DIFF/blob/7944d06c3572ce0ed090c6fcabee221ab6641c35/Proyecto_IA2_FINAL.ipynb
 
 VIDEO:
 
