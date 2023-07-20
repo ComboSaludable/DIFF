@@ -25,7 +25,6 @@ CODIGO: https://github.com/ComboSaludable/DIFF/blob/7944d06c3572ce0ed090c6fcabee
 
 VIDEO: https://youtu.be/rtN5n1oTP2k
 
-REPO: https://github.com/ComboSaludable/DIFF
+REPOSITORIO: https://github.com/ComboSaludable/DIFF
 
 
-PROYECTO FINAL IA 2.
